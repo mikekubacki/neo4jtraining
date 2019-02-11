@@ -1,5 +1,7 @@
 # Neo4j training day
 
+* Note: This repository has been moved over from https://gitlab.com/mikekubacki/neo4jtraining/. *
+
 ## Basic concepts
 
 The ID's are not needed, also the relationships depends on the questions asked.
