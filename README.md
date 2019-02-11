@@ -1,6 +1,6 @@
 # Neo4j training day
 
-* Note: This repository has been moved over from https://gitlab.com/mikekubacki/neo4jtraining/. *
+_Note: This repository has been moved over from https://gitlab.com/mikekubacki/neo4jtraining/._
 
 ## Basic concepts
 
